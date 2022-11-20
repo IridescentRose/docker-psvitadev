@@ -1,6 +1,6 @@
-FROM ubuntu:16.04
+FROM ubuntu:22.04
 
-MAINTAINER jae kaplan <me@jkap.io>
+MAINTAINER Iridescence <iridescentrosesfall@gmail.com>
 
 ENV VITASDK /usr/local/vitasdk
 ENV PATH   $VITASDK/bin:$PATH
