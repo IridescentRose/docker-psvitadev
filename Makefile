@@ -1,4 +1,4 @@
-IMAGE := jkap/psvitadev
+IMAGE := IridescentRose/psvitadev
 
 build:
 	docker build --force-rm -t $(IMAGE) .
